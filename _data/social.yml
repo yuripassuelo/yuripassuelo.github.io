@@ -1,9 +1,16 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://yuri.mpassuelo@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://twitter.com/russianbr98
   icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/vszhub/not-pure-poole
   icon: fab fa-github
+-title: LinkedIn
+  url: https://br.linkedin.com/in/yuri-passuelo-39759412b
+  icon: fab fa-linkedin-in
+- title: CV
+  url: /pdf/CV_YURI_.pdf
+  icon: fab fa-suitcase
+
