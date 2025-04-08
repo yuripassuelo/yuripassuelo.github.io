@@ -12,19 +12,55 @@ toc:  true
 
 Página destinada a atualização e comunicação da monitoria de discuplina de Macroeconomia I.
 
-
 ## Parte I - Profº Fernando Barros Junior
 
-**Dias e horários**: À combinar
+**Dias e horários**: Segunda-feira das 14hs as 15hs
 
-**Sala**: À combinar
+**Sala**: 09-B1
 
 ### Arquivos
 
-#### Scripts
 
+#### Apresentação
+
+[Monitoria 1 (08/04/2025)](/pdf/Monitoria_1_Macro_I.pdf)
+
+#### Scripts
 
 #### Listas e Estratégias
 
 
 ## Parte II - Eliezer Martins Diniz
+
+**Dias e horários**: Segunda-feira das 14hs as 15hs
+
+**Sala**: 09-B1
+
+### Arquivos
+
+
+# Bibliografia:
+
+## Parte I
+
+Macroeconomic Theory; Dirk Krueger (2017)
+
+Recursive methods in economic dynamics ; Nancy Stockey, Robert Lucas e Edward Prescott (1989)
+
+Recursive Macroeconomic theory; Lars Ljungqvist e Thomas Sargent (2014)
+
+### Opcional
+
+Dynamic General Equilibrium Modelling: Computational Methods and Applications ; Burkhard Heer e Alfred Maussner (2005)
+
+## Parte II
+
+Elements of Dynamic Optmization ; Alpha C. Chiang (1992)
+
+
+
+
+
+
+
+
