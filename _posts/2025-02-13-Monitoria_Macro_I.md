@@ -34,6 +34,17 @@ Página destinada a atualização e comunicação da monitoria de discuplina de 
 
 #### Listas e Estratégias
 
+##### Lista 1
+
+[Resolução (Estratégia)](/pdf/Estrategia_lista_I.pdf)
+
+[Script Exercicio 1](/ex_scripts/lista_1.py)
+
+##### Lista 2
+
+##### Lista 3
+
+##### Lista 4
 
 ## Parte II - Eliezer Martins Diniz
 
