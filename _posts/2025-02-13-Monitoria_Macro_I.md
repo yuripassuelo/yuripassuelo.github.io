@@ -42,6 +42,8 @@ Página destinada a atualização e comunicação da monitoria de discuplina de 
 
 ##### Lista 2
 
+[Resolução (Estratégia)](/pdf/Estrategia_lista_II.pdf)
+
 ##### Lista 3
 
 ##### Lista 4
