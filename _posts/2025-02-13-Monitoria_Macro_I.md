@@ -44,6 +44,14 @@ Página destinada a atualização e comunicação da monitoria de discuplina de 
 
 [Resolução (Estratégia)](/pdf/Estrategia_lista_II.pdf)
 
+Exerício (d) e (e), os demais iténs são idênticos e simplesmente remetem a utilizar uma função utilidade diferente
+
+[Script Exercicio 2](/ex_scripts/lista_2.py)
+
+Para entender melhor o passo a passo mais completo do algoritmo da iteração da função valor, temos aqui uma visão mais detalhada
+
+[Algoritmo Detalhado](/pdf/Iter_Func_Val.pdf)
+
 ##### Lista 3
 
 ##### Lista 4
