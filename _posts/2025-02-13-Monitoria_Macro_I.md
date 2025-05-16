@@ -44,7 +44,7 @@ Página destinada a atualização e comunicação da monitoria de discuplina de 
 
 [Resolução (Estratégia)](/pdf/Estrategia_lista_II.pdf)
 
-Exerício (d) e (e), os demais iténs são idênticos e simplesmente remetem a utilizar uma função utilidade diferente
+Exerício 2 itens (d) e (e), os demais iténs são idênticos e simplesmente remetem a utilizar uma função utilidade diferente
 
 [Script Exercicio 2](/ex_scripts/lista_2.py)
 
@@ -54,7 +54,21 @@ Para entender melhor o passo a passo mais completo do algoritmo da iteração da
 
 ##### Lista 3
 
+
+
 ##### Lista 4
+
+Estrategia de resolução da Lista 4
+
+[Resolução (Estratégia)](/pdf/Estrategia_lista_iv.pdf)
+
+Script com a resolução dos Exercicios 3 e 4
+
+[Script Exercicio 2](/ex_scripts/lista_4.py)
+
+Algoritmos de iteração da função valor com introdução de incerteza e trabalho
+
+[Continuação Algoritmos](/pdf/Iter_Func_Val_incert_trab.pdf)
 
 ## Parte II - Eliezer Martins Diniz
 
