@@ -70,6 +70,10 @@ Algoritmos de iteração da função valor com introdução de incerteza e traba
 
 [Continuação Algoritmos](/pdf/Iter_Func_Val_incert_trab.pdf)
 
+### Gabaritos não oficiais parte 1 (21/05)
+
+[Lista 1](/pdf/Lista_1_Macro_1_pt1.pdf), [Lista 2](/pdf/Lista_2_Macro_1_pt1.pdf), [Lista 3](/pdf/Lista_3_Macro_1_pt1.pdf), [Lista 4](/pdf/Lista_4_Macro_1_pt1.pdf)
+
 ## Parte II - Eliezer Martins Diniz
 
 **Dias e horários**: Segunda-feira das 14hs as 15hs
