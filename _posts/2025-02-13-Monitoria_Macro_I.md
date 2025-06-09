@@ -55,7 +55,6 @@ Para entender melhor o passo a passo mais completo do algoritmo da iteração da
 ##### Lista 3
 
 
-
 ##### Lista 4
 
 Estrategia de resolução da Lista 4
@@ -81,6 +80,14 @@ Algoritmos de iteração da função valor com introdução de incerteza e traba
 **Sala**: 09-B1
 
 ### Arquivos
+
+#### Monitoria 1 - Revisão Equações Diferenciais
+
+[Revisão Eq. Diferenciais](/pdf/Monitoria_1_Macro_I_Parte_II.pdf)
+
+#### Monitoria 2 - Calculo de variações
+
+
 
 
 # Bibliografia:
