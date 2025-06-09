@@ -87,8 +87,12 @@ Algoritmos de iteração da função valor com introdução de incerteza e traba
 
 #### Monitoria 2 - Calculo de variações
 
+Resolução dos exercicios 2.4 e 2.5 do Chiang, trazendo aplicações de calculo de variações, como complemente temos dois scripts em Python que podem ajudar a entender e visualizar um pouco as soluções dos problemas
 
+[Otimização Dinâmica do Monopolista e Curva de Phillips](/pdf/Exs_Calc_Var.pdf)
 
+[Script 2.4](/ex_scripts/2.4_ex_monopolio.py)
+[Script 2.5](/ex_scripts/2.5_ex_phillips.py)
 
 # Bibliografia:
 

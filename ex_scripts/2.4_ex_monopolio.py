@@ -38,3 +38,21 @@ curva_P = list( map( lambda t: P(t, A1, A2, bar_P, r1 ), Ts ) )
 
 plt.plot( Ts, curva_P )
 plt.show( )
+
+# Exemplo para Exercicio 4
+
+C = 5
+r = 0.5
+B1 = 4
+B2 = 0.1
+
+curva_1 = list( map( lambda t: P(t, B1, B2, C, r ), Ts ) )
+curva_2 = list( map( lambda t: P(t, B2, B2, C, r ), Ts ) )
+curva_3 = list( map( lambda t: P(t, B2, B1, C, r ), Ts ) )
+
+
+plt.plot( Ts, curva_1, label = r"$A_1>A_2$" )
+plt.plot( Ts, curva_2, label = r"$A_1=A_2$" )
+plt.plot( Ts, curva_3, label = r"$A_1<A_2$" )
+plt.legend()
+plt.show( )
