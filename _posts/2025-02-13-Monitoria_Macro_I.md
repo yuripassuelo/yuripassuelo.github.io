@@ -94,6 +94,12 @@ Resolução dos exercicios 2.4 e 2.5 do Chiang, trazendo aplicações de calculo
 [Script 2.4](/ex_scripts/2.4_ex_monopolio.py)
 [Script 2.5](/ex_scripts/2.5_ex_phillips.py)
 
+#### Monitoria 3 e 4 - Controle Ótimo
+
+Resolução dos exercicios 2.4 e 2.5 do Chiang, trazendo aplicações de controle ótimo.
+
+[Controle ótimo: Ciclo politíco e Trade-off entre utilização energética e qualidade ambiental](/pdf/Exs_Cont_Otimo.pdf)
+
 # Bibliografia:
 
 ## Parte I
