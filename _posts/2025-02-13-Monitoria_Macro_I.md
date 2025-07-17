@@ -100,6 +100,12 @@ Resolução dos exercicios 2.4 e 2.5 do Chiang, trazendo aplicações de control
 
 [Controle ótimo: Ciclo politíco e Trade-off entre utilização energética e qualidade ambiental](/pdf/Exs_Cont_Otimo.pdf)
 
+##### Exemplo Exercício Contole Ótimo
+
+Exemplo Exercício
+
+[Resolução do exercicío 2 Prova 2024](/pdf/Exercicio_Exemplo.pdf)
+
 # Bibliografia:
 
 ## Parte I
