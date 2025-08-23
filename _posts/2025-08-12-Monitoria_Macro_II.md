@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Monitoria Macroeconomia I
-date: 2025-02-13 11:19 +0800
-last_modified_at: 2025-02-13 11:19 +0800
-tags: [Macroeconomia I, Monitoria]
+title: Monitoria Macroeconomia II
+date: 2025-08-23 11:19 +0800
+last_modified_at: 2025-08-23 11:19 +0800
+tags: [Macroeconomia II, Monitoria]
 math: true
 toc:  true
 ---
