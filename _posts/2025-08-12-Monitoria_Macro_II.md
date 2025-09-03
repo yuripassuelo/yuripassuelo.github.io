@@ -32,9 +32,9 @@ Página destinada a atualização e comunicação da monitoria de discuplina de 
 
 ### Lista 3
 
-Resolução Parcial Lista 3
+[Resolução Parcial Lista 3](/pdf/macro_2/Lista_3___Macro_2.pdf)
 
-Link com scripts Lista 3
+[Link com scripts Lista 3](https://github.com/yuripassuelo/yuripassuelo.github.io/tree/main/macro_2/lista_3)
 
 ### Lista 4
 
