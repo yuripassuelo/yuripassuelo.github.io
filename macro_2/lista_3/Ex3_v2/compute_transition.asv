@@ -1,0 +1,48 @@
+
+% Computa dinâmica de transição
+
+function[Ktrans] = compute_transition(beta,alpha,delta,Ktrans,tw,tk)
+    
+    %
+    tw = 0;
+    tk = t0k;
+
+    % Funcao Utilidade
+    util = @(c) (c.^(1-gamma))./(1-gamma);
+    
+    % Salarios e Chutes Iniciais (r0 e w0) 
+    r0 = alpha.*(1./Ktrans).^(1-alpha)-delta;
+    w0 = (1-alpha).*(Ktrans).^(alpha);
+
+    % Parametros Iniciais
+    
+    % Celulas Historicas
+    Vhist = cell( 1, T );
+    ghist = cell( 1, T );
+
+    % Backward Induction
+
+    for k = 20:1
+        
+        for i = 1:M
+            for j = 1:N
+                % Consumo
+                c = ((1-tw)*w*n_grid(i) + (1+r(k)*(1-tk))*k_grid(j) - k_grid').*((1-tw)*w*n_grid(i) + (1+r(k)*(1-tk))*k_grid(j) - k_grid' > 0 ) + eps.*((1-tw)*w*n_grid(i) + (1+r*(1-tk))*k_grid(j) - k_grid' <= 0 );
+                %c = c .* (c>0) + eps .*(c<=0);
+                value = util( c ) + beta * V * pi(i,:)' ;
+                [Tv(j,i),pol ] = max(value);
+                gk(j,i) = k_grid(pol);
+                gc(j,i) = c(pol);
+
+            end
+        end
+    end
+
+
+    % Foward Induction
+
+
+
+
+end
+
