@@ -38,8 +38,10 @@ Página destinada a atualização e comunicação da monitoria de discuplina de 
 
 ### Lista 4
 
-Resolução Parcial Lista 4
 
-Link com scripts Lista 4
+[Resolução Parcial Lista 4](/pdf/macro_2/Lista_4___Macro_2.pdf)
+
+[Link com scripts Lista 4](https://github.com/yuripassuelo/yuripassuelo.github.io/tree/main/macro_2/lista_4)
+
 
 ## Parte II - Profº Gian Paulo Soave
